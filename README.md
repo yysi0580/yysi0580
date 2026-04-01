@@ -66,63 +66,78 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 주요 프로젝트
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/skarnddydwls/project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=skarnddydwls&repo=project&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>📰 NewsMoa</h3>
+      <p>뉴스 OpenAPI 기반 뉴스 통합 조회 웹 서비스</p>
+      <p>React 기반 화면 구현, 비동기 데이터 처리, 예외 상태 UI 반영</p>
+      <p><a href="https://github.com/skarnddydwls/project">Frontend Repository</a></p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/tjoeunProject2/frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjoeunProject2&repo=frontend&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/TjoeunLast/Backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TjoeunLast&repo=Backend&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/TjoeunLast/FrontNew">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TjoeunLast&repo=FrontNew&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🌸 Florit</h3>
+      <p>AI 기반 꽃 추천 및 주변 꽃집 검색 서비스</p>
+      <p>Flutter UI/UX 구현, 지도 연동, 추천 결과/상세 화면 구현</p>
+      <p><a href="https://github.com/tjoeunProject2/frontend">Frontend Repository</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/TjoeunLast/Admin_FrontEnd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TjoeunLast&repo=Admin_FrontEnd&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🚚 Barotruck</h3>
+      <p>통합 물류 운영 플랫폼 프로젝트</p>
+      <p>주문 → 배차 → 운행 → 결제 → 정산 흐름 구현</p>
+      <p>
+        <a href="https://github.com/TjoeunLast/Backend">Backend</a><br/>
+        <a href="https://github.com/TjoeunLast/FrontNew">Frontend</a><br/>
+        <a href="https://github.com/TjoeunLast/Admin_FrontEnd">Admin Frontend</a>
+      </p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/ObserverPLUGIN/observerspring">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ObserverPLUGIN&repo=observerspring&theme=tokyonight&hide_border=true" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🎮 ObserverSpring</h3>
+      <p>Minecraft 관찰/모니터링 플랫폼</p>
+      <p>Spring Boot 기반 백엔드, JWT 인증, 스냅샷/로그 수집 API 구현</p>
+      <p><a href="https://github.com/ObserverPLUGIN/observerspring">Repository</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📌 Project Highlights
+## 📊 GitHub
 
-### 1) NewsMoa
-뉴스 OpenAPI를 활용한 뉴스 통합 조회 웹 서비스
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Profile</h3>
+      <p><a href="https://github.com/yysi0580">yysi0580 GitHub Profile</a></p>
+      <p>전체 커밋 기록과 공개 저장소는 프로필에서 확인할 수 있습니다.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Focus</h3>
+      <p>Spring Boot · Java · Oracle DB · JWT · Payment/Settlement API</p>
+      <p>상태 기반 비즈니스 로직과 실서비스 흐름 구현에 집중하고 있습니다.</p>
+    </td>
+  </tr>
+</table>
 
-- React 기반 뉴스 목록 / 상세 / 카테고리 조회 화면 구현
-- REST API 연동과 비동기 데이터 처리 경험
-- 사용자 관점에서 로딩, 오류, 데이터 없음 상태를 분리해 UI 반영
-- 프론트엔드 중심으로 실제 데이터 기반 서비스 흐름 구현
+    ---
 
-🔗 Repository  
-- Frontend: https://github.com/skarnddydwls/project
+    ## 📌 Project Highlights
 
----
+    ### 1) NewsMoa
+    뉴스 OpenAPI를 활용한 뉴스 통합 조회 웹 서비스
+
+    - React 기반 뉴스 목록 / 상세 / 카테고리 조회 화면 구현
+    - REST API 연동과 비동기 데이터 처리 경험
+    - 사용자 관점에서 로딩, 오류, 데이터 없음 상태를 분리해 UI 반영
+    - 프론트엔드 중심으로 실제 데이터 기반 서비스 흐름 구현
+
+    🔗 Repository  
+    - Frontend: https://github.com/skarnddydwls/project
+
+    ---
 
 ### 2) Florit
 AI 기반 꽃 추천 및 주변 꽃집 검색 서비스
@@ -170,10 +185,9 @@ AI 기반 꽃 추천 및 주변 꽃집 검색 서비스
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yysi0580&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yysi0580&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yysi0580&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://streak-stats.demolab.com?user=yysi0580&theme=tokyonight&hide_border=true" />
 </div>
-
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yysi0580&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
@@ -193,4 +207,4 @@ AI 기반 꽃 추천 및 주변 꽃집 검색 서비스
 ## 📫 Contact
 
 - Email: yysi00558800@gmail.com
-- GitHub: https://github.com/yysi0580
+- GitHub: https://github.com/yysi0580   
