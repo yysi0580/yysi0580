@@ -153,7 +153,7 @@ AI 기반 꽃 추천 및 주변 꽃집 검색 서비스
 ---
 
 ### 4) ObserverSpring
-내가 혼자 만든 Minecraft 관찰/모니터링 플랫폼 프로젝트
+Minecraft 관찰/모니터링 플랫폼 프로젝트
 
 - Spring Boot 4 + Java 21 기반 백엔드 설계
 - JWT 보안 설정, 회원가입/로그인, 실시간 스냅샷 수집 API 구현
