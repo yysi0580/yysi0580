@@ -1,6 +1,6 @@
 <div align="center">
 
-# 양시열 | Yang Siyeol
+#  yysi0580
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+Oracle+DB;JWT%2C+Payment%2C+Settlement+API;Service+Flow+Design+%26+Real-World+Project+Experience;Minecraft+Monitoring+Platform+with+Spring+Boot)](https://git.io/typing-svg)
 
