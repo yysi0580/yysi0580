@@ -1,6 +1,6 @@
 <div align="center">
 
-# 양시열 | Yang Siyeol
+#  yysi0580
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+Oracle+DB;JWT%2C+Payment%2C+Settlement+API;Service+Flow+Design+%26+Real-World+Project+Experience;Minecraft+Monitoring+Platform+with+Spring+Boot)](https://git.io/typing-svg)
 
@@ -168,7 +168,7 @@ AI 기반 꽃 추천 및 주변 꽃집 검색 서비스
 ---
 
 ### 4) ObserverSpring
-내가 혼자 만든 Minecraft 관찰/모니터링 플랫폼 프로젝트
+Minecraft 관찰/모니터링 플랫폼 프로젝트
 
 - Spring Boot 4 + Java 21 기반 백엔드 설계
 - JWT 보안 설정, 회원가입/로그인, 실시간 스냅샷 수집 API 구현
@@ -207,4 +207,4 @@ AI 기반 꽃 추천 및 주변 꽃집 검색 서비스
 ## 📫 Contact
 
 - Email: yysi00558800@gmail.com
-- GitHub: https://github.com/yysi0580   
+- GitHub: https://github.com/yysi0580
